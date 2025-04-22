@@ -1,6 +1,6 @@
 # ConfTrack
 
-Stay in sync with major academic deadlines - effortlessly.
+Stay in sync with major academic deadlines.
 
 ## Overview
 
